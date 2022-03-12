@@ -1,4 +1,8 @@
 const linksSocialMedia = {
+  youtube: 'vinicius6433',
+  facebook: 'vinicius.moreira.1650',
+  twitter: 'vinicius64333',
+  instagram: 'vinicius64333'
 }
 function changeSocialMediaLinks() {
   for (let li of socialLinks.children) {
